@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Halo semua! 
+
+My name is **Leonardo Gianto**.\
+
+I am a final year student majoring in Electrical Engineering at STEI ITB.\
+
+If you are interested, feel free to go to my [Linkedin](https://www.linkedin.com/in/leonardo-gianto).
