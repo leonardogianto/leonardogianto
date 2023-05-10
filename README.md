@@ -19,6 +19,8 @@ My name is **Leonardo Gianto**.
 
 I am a final year student majoring in Electrical Engineering at STEI ITB.
 
+I am interested in Machine Learning, Data Processing, and Microcontroller Programming.
+
 If you are interested, feel free to go to my [Linkedin](https://www.linkedin.com/in/leonardo-gianto).
 
 <p align="left">
